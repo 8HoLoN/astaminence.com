@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Inprimis;
+    src: url("./fonts/Inprimis55regular_v126free.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Inprimis;
+    font-weight: bold;
+    src: url("./fonts/Inprimis55regular_v126free.otf") format("opentype");
+}
+
+@font-face {
+    font-family: ankecallig;
+    src: url("./fonts/ankecallig-fg.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: ankecallig;
+    font-weight: bold;
+    src: url("./fonts/ankecallig-fg.ttf") format("opentype");
+}
